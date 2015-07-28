@@ -94,5 +94,5 @@ void loop() {//Here is our main loop again
     
     digitalWrite(5, HIGH);
   }
-  delay(1); // We wait for 1 second before looping again 
+  delay(1); // We wait for 1ms before looping again 
 }//Close our loop 
